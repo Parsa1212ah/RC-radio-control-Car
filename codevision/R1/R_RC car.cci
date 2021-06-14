@@ -1,0 +1,10 @@
+VERSION:3 SOURCE_TIMESTAMP:5257BB42
+NODE:I LEVEL:0 LINE:24 "C:\cvavr\inc\mega32.h"
+NODE:I LEVEL:0 LINE:25 "C:\cvavr\inc\delay.h"
+NODE:V LEVEL:0 LINE:28 "a -> R5"
+NODE:V LEVEL:0 LINE:28 "i -> R4"
+NODE:V LEVEL:0 LINE:29 "rx_data -> RAM:????"
+NODE:F LEVEL:0 LINE:32 "usart_rx_isr(void)"
+NODE:I LEVEL:0 LINE:39 "C:\cvavr\inc\stdio.h"
+NODE:I LEVEL:0 LINE:42 "C:\cvavr\inc\spi.h"
+NODE:F LEVEL:0 LINE:44 "main(void)"
