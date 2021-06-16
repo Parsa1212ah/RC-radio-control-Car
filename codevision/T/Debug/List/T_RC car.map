@@ -1,0 +1,28 @@
+RAM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+EEPROM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                                          Register  Size
+------------------------------------------------------------------------------------------------
+a0                                                                                R2.0      1bit
+a1                                                                                R2.1      1bit
+a2                                                                                R2.2      1bit
+a3                                                                                R2.3      1bit
+a4                                                                                R2.4      1bit
+a5                                                                                R2.5      1bit
+a6                                                                                R2.6      1bit
+a7                                                                                R2.7      1bit
+b1                                                                                R3.0      1bit
+
+FLASH Allocation [words]
+Function                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+usart_rx_isr                                                                      0x000B6      1
+main                                                                              0x000B7    308
+putchar                                                                           0x001EB      7
+putsf                                                                             0x001F2     21
